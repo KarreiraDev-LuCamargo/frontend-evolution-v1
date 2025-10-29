@@ -1,4 +1,4 @@
-# 🗺️ Frontend Evolution — Roadmap de Aprendizado
+# 🗺️ Frontend Evolution V1 — Roadmap de Aprendizado
 
 Guia de progresso e evolução contínua no **desenvolvimento front-end moderno**, estruturado para consolidar fundamentos, dominar o ecossistema **React / Vite / Next.js / TypeScript**, e evoluir até práticas profissionais.
 
@@ -137,7 +137,7 @@ Profissional com ampla experiência em TI e foco atual em desenvolvimento **Fron
   </a>
 
 </div>
-
+  
 ---
 
 **Feito com dedicação, foco e propósito — uma jornada de evolução constante no front-end moderno. 🚀**
