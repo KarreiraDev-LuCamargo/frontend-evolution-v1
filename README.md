@@ -1,10 +1,11 @@
-# 🧭 Frontend Evolution
+# 🧭 Frontend Evolution V1
 
 Trilha completa de evolução em **Front-end moderno**, explorando **React**, **Vite**, **Next.js** e **TypeScript** — partindo do zero até a criação de aplicações profissionais, performáticas e escaláveis.
 
 ---
 
 ## 🚀 Objetivo
+
 Este repositório serve como uma linha do tempo de aprendizado e prática, estruturada para guiar o desenvolvimento contínuo de habilidades em **React** e seu ecossistema moderno.
 
 Cada módulo representa uma etapa da jornada, com projetos práticos, experimentos e boas práticas aplicadas.
@@ -12,6 +13,7 @@ Cada módulo representa uma etapa da jornada, com projetos práticos, experiment
 ---
 
 ## 🧩 Tecnologias Principais
+
 - ⚡ **Vite** → ambiente rápido para desenvolvimento React.
 - ⚛️ **React.js** → base para construção de interfaces dinâmicas e componentizadas.
 - 🧭 **Next.js** → framework completo para aplicações React com SSR, SSG e rotas avançadas.
@@ -21,7 +23,6 @@ Cada módulo representa uma etapa da jornada, com projetos práticos, experiment
 
 ## 📂 Estrutura Inicial
 
-
 frontend-evolution/ <br>
 │ <br>
 ├── 01-vite-basics/ <br>
@@ -30,12 +31,12 @@ frontend-evolution/ <br>
 ├── 04-typescript-react/ <br>
 └── README.md <br>
 
-
 Cada diretório conterá um módulo prático de aprendizado e evolução incremental.
 
 ---
 
 ## 🧱 Próximos Passos
+
 1. Instalar e configurar o **Vite**.
 2. Explorar o **React**: componentes, props, hooks e estado.
 3. Evoluir com **Next.js**: rotas, SSR/SSG e API Routes.
@@ -45,12 +46,14 @@ Cada diretório conterá um módulo prático de aprendizado e evolução increme
 ---
 
 ## 💬 Contribuição
+
 Este repositório é vivo e será expandido gradualmente com novos módulos, exemplos e melhorias.  
 Sugestões, issues e contribuições são sempre bem-vindas!
 
 ---
 
 ## 📜 Licença
+
 Distribuído sob a licença **MIT** — sinta-se livre para estudar, modificar e evoluir.
 
 ---
@@ -63,7 +66,6 @@ Profissional com mais de 15 anos de experiência em tecnologia, suporte técnico
 ---
 
 ## 🌐 Conecte-se
-
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
 
@@ -87,7 +89,7 @@ Profissional com mais de 15 anos de experiência em tecnologia, suporte técnico
   </a>
 
 **Feito com dedicação e foco no aprendizado contínuo. 🚀**
+
 </div>
 
 ---
-
